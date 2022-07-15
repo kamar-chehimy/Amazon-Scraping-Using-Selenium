@@ -33,3 +33,5 @@ It's a simple amazon scraper written in Python using Selenium that performs the 
    2.13. first 10 reviews extraction
 
 3. Sentiment analysis on the extracted reviews
+
+4. Save results in a csv file
